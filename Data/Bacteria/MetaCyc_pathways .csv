@@ -1,0 +1,18 @@
+Bacteria,Group,Re-label
+BRANCHED-CHAIN-AA-SYN-PWY,Amino acid biosynthesis,Amino acid biosynthesis
+FASYN-ELONG-PWY,Structural bacterial function,Fatty acid elongation
+ILEUSYN-PWY,Amino acid biosynthesis,L-isoleucine biosynthesis
+P105-PWY,TCA cycle,TCA cycle
+PWY-3781,Energy production,Aerobic respiration
+PWY-5101,Amino acid biosynthesis,L-isoleucine biosynthesis
+PWY-5659,Structural bacterial function,GDP-mannose biosynthesis
+PWY-5973,Structural bacterial function,cis-Vaccenate biosynthesis
+PWY-6969,TCA cycle,TCA cycle
+PWY-7111,Energy production,Isobutanol biosynthesis
+PWY-7208,Structural bacterial function,Pyrimidine nucleobases salvage I
+PWY-7431,Structural bacterial function,Romatic biogenic amine degradation
+PWY-7663,Fatty acids (energy),Gondoate biosynthesis (anaerobic)
+PWY0-1586,Structural bacterial function,Peptidoglycan maturation
+REDCITCYC,TCA cycle,TCA cycle
+TCA,TCA cycle,TCA cycle
+VALSYN-PWY,Amino acid biosynthesis,L-valine biosynthesis
