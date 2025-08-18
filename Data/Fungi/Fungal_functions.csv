@@ -1,0 +1,18 @@
+Function,Rename,Group
+sooty_mold,Sooty mold,Living habit
+epiphyte,Epiphyte,Living habit
+animal_endosymbiont,Animal endosymbiont,Living habit
+foliar_endophyte,Foliar endophyte,Living habit
+lichenized,Lichenized,Photosynthetic
+ectomycorrhizal,Ectomycorrhizal,Mycorrhizae
+animal_parasite,Animal parasite,Parasite
+mycoparasite,Mycoparasite,Parasite
+lichen_parasite,Lichen parasite,Parasite
+plant_pathogen,Plant pathogen,Pathogen
+litter_saprotroph,Litter saprotroph,Saprotroph
+unspecified_saprotroph,Unspecified saprotroph,Saprotroph
+soil_saprotroph,Soil saprotroph,Saprotroph
+wood_saprotroph,Wood saprotroph,Saprotroph
+dung_saprotroph,Dung saprotroph,Saprotroph
+nectar/tap_saprotroph,Nectar/tap saprotroph,Saprotroph
+pollen_saprotroph,Pollen saprotroph,Saprotroph
